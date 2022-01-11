@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Joona Syrjakoski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/joonasyrjäkoski
+
+- 📫 How to reach me 
+  - 👤 https://www.linkedin.com/in/joonasyrjäkoski
+  - 📸 https://www.instagram.com/joona_sk
+ 
 
 
 <!---
