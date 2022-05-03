@@ -2,7 +2,6 @@
 
 - 📫 How to reach me 
   - 👤 https://www.linkedin.com/in/joonasyrjäkoski
-  - 📸 https://www.instagram.com/joona_sk
  
 
 
