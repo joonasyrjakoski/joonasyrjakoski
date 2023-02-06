@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joona Syrjakoski
 
 - 📫 How to reach me 
-  - 👤 https://www.linkedin.com/in/joonasyrjäkoski
+  - 👤 https://www.linkedin.com/in/joonasyrjakoski
  
 
 
